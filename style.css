@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.bg-black{
+	background-color: black;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.font-div{
+	width: 30%;
+}
+
+@media only screen and (min-width: 999px){
+	.font-div{
+		padding: 42px 0px!important;
+	}
+}
